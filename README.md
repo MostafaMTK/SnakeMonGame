@@ -35,27 +35,11 @@ Design Mode lets players create and configure the game board. Play Mode simulate
 
 ## 👨‍💻 Team
 
-- **Mostafa Mohammed** – Logic design, code integration, GUI enhancements, and project documentation  
-- **Mariam Sameh** – Game mechanics, player interactions, and Play Mode logic  
-- **Mariam Mohamed** – Card implementation, I/O logic, and validations  
+- **[Mostafa Mohammed](https://www.linkedin.com/in/mostafamohammed2005/)**
+- **[Mariam Sameh](https://www.linkedin.com/in/mariam-sameh-1b726a335/)** 
+- **[Mariam Mohamed](https://www.linkedin.com/in/mariam-mohamed-923025335/)** 
 
-## 📷 Screenshots
 
-> Add your screenshots here (e.g., `images/grid_sample.png`, `images/play_mode.png`)
-
-## 🗃 File Structure
-
-```
-Phase2_Code/
-├── Actions/           # All user-triggered actions
-├── Cards/             # All card logic (CardOne to CardThirteen)
-├── Grid/              # Grid and Cell classes
-├── GameObjects/       # Ladder, Snake, Card (base)
-├── Player/            # Player class and movement logic
-├── GUI/               # Input & Output classes
-├── Resources/         # Toolbar images, icons
-└── main.cpp           # Entry point
-```
 
 ## 💾 Sample Grids
 
@@ -64,21 +48,7 @@ You can find sample grid saves inside the `/SavedGrids/` folder:
 - `sample2.txt` – Includes advanced cards and stations
 - `sample3.txt` – Fully playable grid with all features
 
-Each sample is accompanied by a `.png` screenshot.
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Visual Studio (recommended)
-- C++ compiler
-- Project uses an open-source graphics library included in `/GUI/`
-
-### How to Run
-
-1. Clone the repo
-2. Open the solution in Visual Studio
-3. Build and Run
 
 ## 📁 Save File Format
 
@@ -105,11 +75,3 @@ Refer to Phase 2 document for full specs.
 
 This project is academic work for CMPG102. Redistribution or reuse outside this context is not allowed without permission.
 
-## 🔗 Related
-
-- [LinkedIn Project Post](https://www.linkedin.com/in/mostafamohammed2005)  
-- [CV Summary](#)
-
-## 🏁 Final Notes
-
-This was our first full OOP-based game project, and we’re proud of the creativity, logic, and teamwork that went into it. Special thanks to our teammates and instructors for their support!
